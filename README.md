@@ -49,7 +49,6 @@
 
 ---
 
-<h3 align="center">Activity Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyodhyaSankalpa&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
