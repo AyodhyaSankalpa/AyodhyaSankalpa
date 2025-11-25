@@ -4,11 +4,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayodhyasankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="ayodhyasankalpa" /> </p>
 
-- 🔭 I’m currently working on **Sri Lankan Port Authority(intern)**
+- 🔭 I’m currently working on **CodeZura**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **HTML, CSS and PHP**
+- 💬 Ask me about **HTML, CSS, PHP and Laravel**
 
 - 📫 How to reach me **sankalpaayodhya31@gmail.com**
 
