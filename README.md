@@ -1,76 +1,91 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="130"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayodhya Sankalpa</h1>
+<h3 align="center">Programmer | Web Developer | Software Engineer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Programmer+%7C+Web+Developer;Laravel+%7C+React+%7C+MERN+Stack;Building+Modern+Web+Applications;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyodhyaSankalpa&label=Profile+Views&color=0e75b6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/AyodhyaSankalpa?label=Followers&style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/AyodhyaSankalpa?label=Stars&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=AyodhyaSankalpa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 👨‍💻 Programmer & Full-Stack Web Developer  
+- 🚀 Software Developer & Web Developer  
 - 🔭 Currently working on **CodeZura**
-- 🌱 Learning **MERN Stack**
-- 💬 Ask me about **Laravel, PHP, React & APIs**
+- 🌱 Learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💡 Experienced in **HTML, CSS, JavaScript, PHP & Laravel**
+- 📱 Interested in **Web Apps, REST APIs & Mobile App Development**
 - 📫 Reach me at **sankalpaayodhya31@gmail.com**
-- ⚡ Fun fact: **I code, travel & repeat 🌍**
+- ⚡ Fun fact: **I love coding & traveling 🌍**
 
 ---
 
-## 🛠 Tech Stack
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,nodejs,flutter,dart,git,github,postman" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyodhyaSankalpa&theme=dark&show_icons=true&count_private=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyodhyaSankalpa&theme=dark" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AyodhyaSankalpa&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyodhyaSankalpa&theme=tokyonight&show_icons=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyodhyaSankalpa&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AyodhyaSankalpa&theme=tokyonight&layout=compact&langs_count=10"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ayodhyasankalpa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayodhya%20Sankalpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 🚧 What I Build
+### 🛠️ Languages & Tools
 
-- 🌐 Full-Stack Web Applications  
-- 🧩 RESTful APIs  
-- 📱 Mobile Apps with Flutter  
-- 🏢 Business Systems & Dashboards  
-- ⚡ Scalable Laravel & React Projects  
+<p align="center">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+</p>
+
+---
+
+### 🚀 What I Do
+
+- 🌐 Full-Stack Web Development  
+- 🧩 REST API Development  
+- 📱 Mobile App Development (Flutter)  
+- 🏗️ Laravel & React Projects  
+- 🛠️ Custom Business Systems & Dashboards  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+  💙 <b>Happy Coding!</b>
 </p>
