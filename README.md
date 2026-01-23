@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyodhyaSankalpa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AyodhyaSankalpa?label=Followers&style=flat&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AyodhyaSankalpa?label=Total%20Stars&style=flat&color=yellow" alt="Total Stars" />
 </p>
 
 ---
