@@ -73,7 +73,7 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" width="50"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="50"/>
 </p>
 
 ---
