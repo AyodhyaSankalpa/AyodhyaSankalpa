@@ -28,7 +28,6 @@
 ### 🚀 About Me
 
 - 💻 Full-stack developer focused on building modern and scalable web experiences
-- 🔭 Currently working on **CodeZura**
 - 🌱 Learning **MERN Stack** with MongoDB, Express, React, and Node.js
 - ⚙️ Experienced in **HTML, CSS, JavaScript, PHP, Laravel, and MySQL**
 - 📱 Passionate about **web apps, REST APIs, dashboards, and mobile app development**
